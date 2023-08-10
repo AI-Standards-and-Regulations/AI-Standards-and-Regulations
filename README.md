@@ -1,4 +1,4 @@
-# AI Standards and Regulations
+# AI Standards and Regulations 
 A Survey of Research and Resource List on AI Standards and Regulations
 
 ## Government Agencies and Research Institutions
