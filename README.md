@@ -1,5 +1,5 @@
-# AI Standards
-A Survey of Research and Resource List on AI Regulation and Standards 
+# AI Standards and Regulations
+A Survey of Research and Resource List on AI Standards and Regulations
 
 ## Government Agencies and Research Institutions
 - [ISO Standards by ISO/IEC JTC 1/SC 42](https://www.iso.org/committee/6794475/x/catalogue/p/0/u/1/w/0/d/0)
