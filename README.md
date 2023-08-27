@@ -62,39 +62,40 @@ A Survey of Research and Resource List on AI Standards and Regulations
 
 
 ## Presentations and Talks
+- [Lawmakers introduce legislation to regulate AI](https://www.youtube.com/watch?v=Lc_oevWJREI) Fox Business, Aug 03, 2023
+- [The first law on AI regulation | The EU AI Act](https://www.youtube.com/watch?v=JOKXONV7LuA) AI Coffee Break with Letitia, Jul 30, 2023
+- [AI and the importance of regulation, safety, and, managing risks](https://www.youtube.com/watch?v=uLvQ-v_Hgnk) Yahoo Finance, Jul 30, 2023
+- [Biden's meeting with tech execs on A.I. regulation under focus](https://www.youtube.com/watch?v=Uq6LPEFcZcI) CNBC Television, Jul 22, 2023
+- [EU takes major steps towards regulating AI](https://www.youtube.com/watch?v=LC6GJr24uww) NBC News, Jun 15, 2023
+- [IHUK 2020 - Clinical validation and regulatory landscape for AI medical devices](https://www.youtube.com/watch?v=LOFXvRJmncY) Intelligent Health AI, Jul 10, 2020
+- [Ethics of AI: Challenges and Governance](https://www.youtube.com/watch?v=VqFqWIqOB1g) UNESCO, Jul 07, 2023
+- [WION Fineprint: Are rules and regulations needed for AI?](https://www.youtube.com/watch?v=JYvhqT_7kO0), Wion, Jan 26, 2023
+- [House member introduces new bipartisan legislation on regulating AI](https://www.youtube.com/watch?v=Hr3Zex1ELkk) MSNBC, Jun 21, 2023
 - [Regulating AI for the safety of humanity | Ayush Patel | TEDxQESchool](https://www.youtube.com/watch?v=1BopR9PPXsQ) Jun 22, 2021
 - [Lawmakers in Europe crack down on AI regulation | ABC News](https://www.youtube.com/watch?v=bCq9Z4A8g7o) Jun 17, 2023
+- [EU lawmakers approve draft legislation that would restrict use of AI technology](https://www.youtube.com/watch?v=PKiWYcIp4hI) CBC News, Jun 15, 2023
+- [European Parliament debates proposed law on AI regulation | DW News](https://www.youtube.com/watch?v=kcOQYj9zcqw) DW News, Jun 14, 2023
+- [Charting a way forward for Ethical AI: Balancing innovation and responsibility | Tech.eu Summit 2023](https://www.youtube.com/watch?v=5XKWZEQaE7Y) Tech.eu, Jun 12, 2023
 - [Artificial intelligence pioneers call for greater regulation - BBC News](https://www.youtube.com/watch?v=XSF5TD0J0Qc), BBC News, Jun 01, 2023
 - [Artificial Intelligence regulations discussed by EU, US and G7 - BBC News](https://www.youtube.com/watch?v=3gPv2Sw9V-I) BBC News, May 30, 2023
-- [Why OpenAI’s CEO Called for AI Safety Standards at Senate Hearing | WSJ Tech News Briefing](https://www.youtube.com/watch?v=Jj6Vpd7ipIs) May 18, 2023
+- [TechNet CEO: AI Regulation Will Take Time](https://www.youtube.com/watch?v=OOLURIBazcY) Bloomberg Technology, May 24, 2023
+- [Meta's Nicola Mendelsohn on AI, Regulation](https://www.youtube.com/watch?v=glheCw0WtV8) Bloomberg Television, May 19, 2023
 - [Why artificial intelligence developers say regulation is needed to keep AI in check](https://www.youtube.com/watch?v=ihhmg_w1o-U), PBS NewsHour, May 17, 2023
 - [OpenAI Urges AI Regulation in US](https://www.youtube.com/watch?v=RkPpPSHQheU) Bloomberg Technology, May 17, 2023
 - [OpenAI CEO testifies at Senate hearing on AI regulation](https://www.youtube.com/watch?v=PSuQ2s9VaOQ) NBC News, May 17, 2023
-- [AI regulatory updates from around the world](https://aibusiness.com/responsible-ai/ai-regulatory-updates-from-around-the-world), AI Business, March 25, 2022
-- [OpenAI CEO, CTO on risks and how AI will reshape society](https://www.youtube.com/watch?v=540vzMlf-54) ABC News, Mar 18, 2023
-- [WION Fineprint: Are rules and regulations needed for AI?](https://www.youtube.com/watch?v=JYvhqT_7kO0), Wion, Jan 26, 2023
 - [AI regulation and privacy: How legislation could transform the Artificial Intelligence industry](https://www.youtube.com/watch?v=NiPr-ZX-1_o) Yahoo Finance, May 15, 2023
-- [European Parliament debates proposed law on AI regulation | DW News](https://www.youtube.com/watch?v=kcOQYj9zcqw) DW News, Jun 14, 2023
-- [Biden's meeting with tech execs on A.I. regulation under focus](https://www.youtube.com/watch?v=Uq6LPEFcZcI) CNBC Television, Jul 22, 2023
-- [House member introduces new bipartisan legislation on regulating AI](https://www.youtube.com/watch?v=Hr3Zex1ELkk) MSNBC, Jun 21, 2023
-- [EU to unveil proposed regulations for artificial intelligence](https://www.youtube.com/watch?v=xBg6JthpeFg) Al Jazeera English, Feb 20 2020
-- [Meta's Nicola Mendelsohn on AI, Regulation](https://www.youtube.com/watch?v=glheCw0WtV8) Bloomberg Television, May 19, 2023
-- [EU lawmakers approve draft legislation that would restrict use of AI technology](https://www.youtube.com/watch?v=PKiWYcIp4hI) CBC News, Jun 15, 2023
-- [AI/Machine Learning: Regulation, Development, and Real-World Performance Evaluation](https://www.youtube.com/watch?v=WSL49jp9At4) Duke Margolis, Mar 25, 2022
-- [TechNet CEO: AI Regulation Will Take Time](https://www.youtube.com/watch?v=OOLURIBazcY) Bloomberg Technology, May 24, 2023
-- [Google CEO calls for global AI regulation | 60 Minutes](https://www.youtube.com/watch?v=aNsmr-tvQhA) 60 Minutes, Apr 17, 2023
-- [Lawmakers introduce legislation to regulate AI](https://www.youtube.com/watch?v=Lc_oevWJREI) Fox Business, Aug 03, 2023
+- [Bill Gates says government isn’t ready to regulate artificial intelligence](https://www.youtube.com/watch?v=G3Ov4lXIJ1E) ABC News, May 09, 2023
 - [OpenAI CEO Sam Altman: Deploying A.I. into society requires government partnership and regulation](https://www.youtube.com/watch?v=P_euKVv7gE8) CNBC Television, May 06, 2023
-- [The first law on AI regulation | The EU AI Act](https://www.youtube.com/watch?v=JOKXONV7LuA) AI Coffee Break with Letitia, Jul 30, 2023
-- [Ethics of AI: Challenges and Governance](https://www.youtube.com/watch?v=VqFqWIqOB1g) UNESCO, Jul 07, 2023
-- [AI and the importance of regulation, safety, and, managing risks](https://www.youtube.com/watch?v=uLvQ-v_Hgnk) Yahoo Finance, Jul 30, 2023
-- [EU takes major steps towards regulating AI](https://www.youtube.com/watch?v=LC6GJr24uww) NBC News, Jun 15, 2023
-- [IHUK 2020 - Clinical validation and regulatory landscape for AI medical devices](https://www.youtube.com/watch?v=LOFXvRJmncY) Intelligent Health AI, Jul 10, 2020
+- [Google CEO calls for global AI regulation | 60 Minutes](https://www.youtube.com/watch?v=aNsmr-tvQhA) 60 Minutes, Apr 17, 2023
+- [OpenAI CEO, CTO on risks and how AI will reshape society](https://www.youtube.com/watch?v=540vzMlf-54) ABC News, Mar 18, 2023
+- [AI/Machine Learning: Regulation, Development, and Real-World Performance Evaluation](https://www.youtube.com/watch?v=WSL49jp9At4) Duke Margolis, Mar 25, 2022
+- [AI regulatory updates from around the world](https://aibusiness.com/responsible-ai/ai-regulatory-updates-from-around-the-world), AI Business, March 25, 2022
 - [Kai-Fu Lee on Global Tech Regulation & How AI Will Transform The World](https://www.youtube.com/watch?v=yw8fDBX0MTc) Bloomberg Technology, Sep 15, 2021
 - [AI and regulation – key regulators](https://www.youtube.com/watch?v=xuBQNzN3E5k) Kemp IT Law, Jun 23, 2021
 - [New European Commission AI regulation to change the course of AI use in future society](https://www.youtube.com/watch?v=FDLC3XVafFw) Future Ready, Apr 26, 2021
-- [Bill Gates says government isn’t ready to regulate artificial intelligence](https://www.youtube.com/watch?v=G3Ov4lXIJ1E) ABC News, May 09, 2023
-- [Charting a way forward for Ethical AI: Balancing innovation and responsibility | Tech.eu Summit 2023](https://www.youtube.com/watch?v=5XKWZEQaE7Y) Tech.eu, Jun 12, 2023
+- [EU to unveil proposed regulations for artificial intelligence](https://www.youtube.com/watch?v=xBg6JthpeFg) Al Jazeera English, Feb 20 2020
+
+
 
 
 
