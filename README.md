@@ -21,7 +21,8 @@ A Survey of Research and Resource List on AI Standards and Regulations
 - [Position Paper of the People's Republic of China on Strengthening Ethical Governance of Artificial Intelligence (AI)](https://www.fmprc.gov.cn/eng/wjdt_665385/wjzcs/202211/t20221117_10976730.html)
 - [Singapore’s Approach to AI Governance](https://www.pdpc.gov.sg/help-and-resources/2020/01/model-ai-governance-framework)
 - [AI regulation](https://www.mrs.org.uk/standards/ai-regulation)
-- [United Nations Activities on Artificial Intelligence (AI) 2021](https://www.itu.int/dms_pub/itu-s/opb/gen/S-GEN-UNACT-2021-PDF-E.pdf) 
+- [United Nations Activities on Artificial Intelligence (AI) 2021](https://www.itu.int/dms_pub/itu-s/opb/gen/S-GEN-UNACT-2021-PDF-E.pdf)
+- [The impact of artificial intelligence on human society and bioethics](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7605294/)
 
 
 
