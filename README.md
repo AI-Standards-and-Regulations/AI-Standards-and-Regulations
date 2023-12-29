@@ -31,6 +31,7 @@ A Survey of Research and Resource List on AI Standards and Regulations
 
 
 
+
 ## News and Media Discussions
 - [Who Should Be Regulating AI Classroom Tools?](https://www.govtech.com/education/higher-ed/who-should-be-regulating-ai-classroom-tools) Government Technology, Aug 18, 2023
 - [AI Governance, Regulation, and Bias: A Crucial Conversation with Manasi Vartak](https://www.iotforall.com/ai-governance-regulation-and-bias-a-crucial-conversation-with-manasi-vartak) IoT For All, Aug 18,2023
@@ -58,6 +59,7 @@ A Survey of Research and Resource List on AI Standards and Regulations
 - [Self-Regulation Is the Standard in AI, for Now](https://www.enterpriseai.news/2023/04/19/self-regulation-is-the-standard-in-ai-for-now/), The Enterpriseai, April 19, 2023
 - [EU's Artificial Intelligence Act will lead the world on regulating AI](https://www.newscientist.com/article/mg25634192-300-eus-artificial-intelligence-act-will-lead-the-world-on-regulating-ai/) NewScientists, Dec 28, 2022
 - [Europe's bid for AI standard faces long road](https://www.itnews.com.au/news/europes-bid-for-ai-standard-faces-long-road-576161) The ItNews, Feb 17 2022
+- - [Enhancing Smart Home Design with AI Models: A Case Study of Living Spaces Implementation Review](https://www.diva-portal.org/smash/get/diva2:1751549/FULLTEXT01.pdf) Energies,  26 February 2023
 
 
 
