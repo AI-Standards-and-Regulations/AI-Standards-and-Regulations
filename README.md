@@ -24,6 +24,7 @@ A Survey of Research and Resource List on AI Standards and Regulations
 - [United Nations Activities on Artificial Intelligence (AI) 2021](https://www.itu.int/dms_pub/itu-s/opb/gen/S-GEN-UNACT-2021-PDF-E.pdf)
 - [The impact of artificial intelligence on human society and bioethics](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7605294/)
 - [Data Protection Law in China – China’s First Generative Artificial Intelligence Regulation](https://www.legal500.com/doing-business-in/data-protection-law-in-china-chinas-first-generative-artificial-intelligence-regulation/)
+- [The role and responsibilities of the state in AI governance](https://m.thepaper.cn/newsDetail_forward_21719171?commTag=true)
 
 
 
