@@ -35,6 +35,7 @@ A Survey of Research and Resource List on AI Standards and Regulations
 
 
 ## News and Media Discussions
+-[Ethics and discrimination in artificial intelligence-enabled recruitment practices](https://www.nature.com/articles/s41599-023-02079-x) nature, 13 Sep, 2023
 - [Who Should Be Regulating AI Classroom Tools?](https://www.govtech.com/education/higher-ed/who-should-be-regulating-ai-classroom-tools) Government Technology, Aug 18, 2023
 - [AI Governance, Regulation, and Bias: A Crucial Conversation with Manasi Vartak](https://www.iotforall.com/ai-governance-regulation-and-bias-a-crucial-conversation-with-manasi-vartak) IoT For All, Aug 18,2023
 - [ESG May Help Regulate AI/ ChatGPT Use In Business](https://www.forbes.com/sites/jonmcgowan/2023/08/15/esg-may-help-regulate-ai-chatgpt-use-in-business/?sh=379d8d7a77e0) Forbes, Aug 15, 2023
