@@ -59,6 +59,7 @@ A Survey of Research and Resource List on AI Standards and Regulations
 - [The EU and U.S. diverge on AI regulation: A transatlantic comparison and steps to alignment](https://www.brookings.edu/articles/the-eu-and-us-diverge-on-ai-regulation-a-transatlantic-comparison-and-steps-to-alignment/) Thw Bookings, Apr 25, 2023
 - [US-China Competition in Tech Expands to AI Regulations](https://www.voanews.com/a/us-china-competition-in-tech-expands-to-ai-regulations/7061219.html) The Voanews, April 21, 2023
 - [Self-Regulation Is the Standard in AI, for Now](https://www.enterpriseai.news/2023/04/19/self-regulation-is-the-standard-in-ai-for-now/), The Enterpriseai, April 19, 2023
+- [DEVELOPMENTS IN THE REGULATION OF ARTIFICIAL INTELLIGENCE](https://www.kwm.com/global/en/insights/latest-thinking/developments-in-the-regulation-of-artificial-intelligence.html) King & Wood Mallesons. Apr 19, 2023
 - [EU's Artificial Intelligence Act will lead the world on regulating AI](https://www.newscientist.com/article/mg25634192-300-eus-artificial-intelligence-act-will-lead-the-world-on-regulating-ai/) NewScientists, Dec 28, 2022
 - [Europe's bid for AI standard faces long road](https://www.itnews.com.au/news/europes-bid-for-ai-standard-faces-long-road-576161) The ItNews, Feb 17 2022
 - - [Enhancing Smart Home Design with AI Models: A Case Study of Living Spaces Implementation Review](https://www.diva-portal.org/smash/get/diva2:1751549/FULLTEXT01.pdf) Energies,  26 February 2023
