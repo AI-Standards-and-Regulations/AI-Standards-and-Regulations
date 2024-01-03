@@ -55,6 +55,7 @@ A Survey of Research and Resource List on AI Standards and Regulations
 - [Artificial Intelligence Is Getting Regulated](https://www.forbes.com/sites/jackkelly/2023/06/05/artificial-intelligence-is-getting-regulated/?sh=4eb391e27a09) Forbes, Jun 05, 2023
 - [How can we regulate AI? Let’s just ask it](https://www.lowyinstitute.org/the-interpreter/how-can-we-regulate-ai-let-s-just-ask-it) The Interpreter, 30 May, 2023
 - [The US government should regulate AI if it wants to lead on international AI governance](https://www.brookings.edu/articles/the-us-government-should-regulate-ai/) Bookings, May 22, 2023
+- [How Should Artificial Intelligence Be Regulated—if at All?](https://hbswk.hbs.edu/item/how-should-artificial-intelligence-be-regulated-if-at-all) Harvard Business School, 02 may 2023
 - [What's next for potential global AI regulation, best practices](https://iapp.org/news/a/iapp-gps-2023-whats-next-for-potential-global-ai-regulations-best-practices-for-governing-automated-systems/) The Iapp, Apr 25, 2023]
 - [The EU and U.S. diverge on AI regulation: A transatlantic comparison and steps to alignment](https://www.brookings.edu/articles/the-eu-and-us-diverge-on-ai-regulation-a-transatlantic-comparison-and-steps-to-alignment/) Thw Bookings, Apr 25, 2023
 - [US-China Competition in Tech Expands to AI Regulations](https://www.voanews.com/a/us-china-competition-in-tech-expands-to-ai-regulations/7061219.html) The Voanews, April 21, 2023
